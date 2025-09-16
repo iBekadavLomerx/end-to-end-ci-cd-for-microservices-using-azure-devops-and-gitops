@@ -17,4 +17,5 @@ Designed and implemented a complete CI/CD pipeline for a multi-tier, multi-micro
 
 Project Walkthrough
 
-Coming Soon!
+Uploading Soon! (Within this Week) 
+Please visit my fully udpated projects below.
