@@ -15,7 +15,7 @@ Designed and implemented a complete CI/CD pipeline for a multi-tier, multi-micro
 - Redis
 - MySQL
 
-Project Walkthrough
+<h2>Project Walkthrough</h2>
 
 Uploading Soon! (Within this Week) 
 Please visit my fully udpated projects below.
